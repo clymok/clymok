@@ -16,7 +16,7 @@ Junior Software Engineer from Kyiv, Ukraine 🇺🇦
 
 ## Links
 
-- 🌐 Portfolio: [https://clymok.github.io/clymok/]
+- 🌐 Portfolio: https://clymok.github.io/clymok/
 ---
 
 I'd be happy if, you will support me with you're intrest's of my work, what I will make out here because I am, begginer software engineer.
