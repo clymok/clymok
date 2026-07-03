@@ -1,4 +1,4 @@
-# Hey, I'm Maxsion! 👋
+# Hey, I'm Clymok! 👋
 
 Junior Software Engineer from Kyiv, Ukraine 🇺🇦
 
