@@ -1,4 +1,4 @@
-# Hey, I'm Symneas! 👋
+# Hey, I'm Clymok! 👋
 
 Junior Software Engineer from Kyiv, Ukraine 🇺🇦
 
